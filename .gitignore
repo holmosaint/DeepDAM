@@ -1,0 +1,8 @@
+**/__pycache__/*
+log/*
+*.sh
+*.h5
+*.ipynb
+*.out
+generator/*
+hostfile
