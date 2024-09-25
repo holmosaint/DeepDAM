@@ -1,8 +1,3 @@
 **/__pycache__/*
-log/*
-*.sh
-*.h5
-*.ipynb
-*.out
-generator/*
-hostfile
+data/
+pos_9_neg_66_20220303/
