@@ -1,0 +1,1 @@
+data/syn_data/MAT_1000_T_0.1.h5 filter=lfs diff=lfs merge=lfs -text
